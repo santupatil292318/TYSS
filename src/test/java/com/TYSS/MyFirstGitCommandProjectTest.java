@@ -6,6 +6,6 @@ public class MyFirstGitCommandProjectTest {
 	@Test
 void commandGit()
 {
-System.out.println("This is a first git command program");	
+System.out.println("This is a first git");	
 }
 }
